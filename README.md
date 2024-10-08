@@ -11,6 +11,10 @@ computers, is largely that whenever they start talking... you can't stop them.
 
 Thus, I sought to implement a more realistic conversation by utilizing multithreading!
 
+Additionally, with the context of my coursework in Operating Systems, it seemed like
+a cool problem that I could solve with threads, and a neat way to utilize synchronization
+primitives such as locks to give real world impact!
+
 
 ## How does it work?:
 
